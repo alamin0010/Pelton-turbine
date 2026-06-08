@@ -123,6 +123,8 @@ The team successfully generated electricity using the final turbine design.
 - Initial testing: https://youtube.com/shorts/CjzsIy845N0
 - Gear transmission trial: https://youtube.com/shorts/BoIkWcFZWAU
 - Final electricity generation test: https://www.youtube.com/watch?v=r5DEqzfE4aQ
+### Full project PDF References
+- Design and Manufacturing Project.pdf
 
 ---
 
