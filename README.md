@@ -20,6 +20,8 @@
 This project focused on the design, construction, testing, and performance analysis of a Pelton hydraulic turbine for small-scale sustainable electricity generation. The team studied turbine operation, designed components in SolidWorks, manufactured prototypes using 3D printing, performed simulations in SolidWorks and Ansys, and successfully generated electricity from a working prototype.
 
 ---
+### Full project PDF References
+- Design and Manufacturing Project.pdf: https://github.com/alamin0010/Pelton-turbine/blob/50beb2fdc5e114d98ef80df4b0d5a6f2398f57b9/Design%20and%20Manufacturing%20Project.pdf
 
 ## Table of Contents
 
@@ -123,8 +125,6 @@ The team successfully generated electricity using the final turbine design.
 - Initial testing: https://youtube.com/shorts/CjzsIy845N0
 - Gear transmission trial: https://youtube.com/shorts/BoIkWcFZWAU
 - Final electricity generation test: https://www.youtube.com/watch?v=r5DEqzfE4aQ
-### Full project PDF References
-- Design and Manufacturing Project.pdf: https://github.com/alamin0010/Pelton-turbine/blob/50beb2fdc5e114d98ef80df4b0d5a6f2398f57b9/Design%20and%20Manufacturing%20Project.pdf
 
 ---
 
