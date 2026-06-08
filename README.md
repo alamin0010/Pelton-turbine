@@ -124,7 +124,7 @@ The team successfully generated electricity using the final turbine design.
 - Gear transmission trial: https://youtube.com/shorts/BoIkWcFZWAU
 - Final electricity generation test: https://www.youtube.com/watch?v=r5DEqzfE4aQ
 ### Full project PDF References
-- Design and Manufacturing Project.pdf
+- Design and Manufacturing Project.pdf: https://github.com/alamin0010/Pelton-turbine/blob/50beb2fdc5e114d98ef80df4b0d5a6f2398f57b9/Design%20and%20Manufacturing%20Project.pdf
 
 ---
 
